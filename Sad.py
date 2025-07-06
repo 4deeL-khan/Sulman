@@ -396,9 +396,9 @@ logo = ("""\033[1;32m
  
 ••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;33m
   \033[1;32mRealname  : Adeel leghari
-  \033[1;33mfb id name : Sulman kabir.x.xx
-  \033[1;32mworks : fytr repoter hacker cloner
-   \033[1;33m my whtsp. : 03444819642
+  \033[1;33mfb id name : Sulman kabir
+  \033[1;32mTyp : fytr repoter hacker Coder
+   \033[1;33mContact: +923297331824
 ••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;32m""")
 
 class Main:
